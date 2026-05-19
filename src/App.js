@@ -1,16 +1,5 @@
 // import logo from './logo.svg';
-// import './App.css';
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <h1>Mera Pehla React App</h1>
-//       <p>Yeh mera counter app hai</p>
-//     </div>
-//   );
-// }
-
-// export default App;
+import './App.css';
 
 import { useState } from "react";
 
@@ -28,3 +17,14 @@ function App(){
 }
 
 export default App;
+
+// function App() {
+//   return (
+//     <div className="App">
+//       <h1>Mera Pehla React App</h1>
+//       <p>Yeh mera counter app hai</p>
+//     </div>
+//   );
+// }
+
+// export default App;
